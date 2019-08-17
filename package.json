@@ -1,0 +1,19 @@
+{
+  "name": "@dalebotha/console_log",
+  "version": "1.0.0",
+  "description": "A simple module to console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalebotha/console_log.git"
+  },
+  "author": "Dale Botha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalebotha/console_log/issues"
+  },
+  "homepage": "https://github.com/dalebotha/console_log#readme"
+}
